@@ -16,7 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=RajNangare&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me : You can contact me on Instagram @rajnangare or your can reach me by mail rajjagannathnangare@gmail.com
 [![@rajnangare's Holopin board](https://holopin.io/api/user/board?user=rajnangare)](https://holopin.io/@rajnangare)
 <!---
 RajNangare/RajNangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

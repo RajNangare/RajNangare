@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RajNangare<br>👀 I’m interested in open source contribution <br>🌱 I’m currently learning Web development and Machine learning<br>💞️ I’m looking for people to help me with my contributions in open source project
+👋 Hi, I’m @RajNangare<br>👀 I’m interested in open source contribution <br>🌱 I’m currently learning Machine learning & Deep Learning <br>💞️ I’m looking for people to help me with my contributions in open source project
 
 
 ## 🌐 Socials:
